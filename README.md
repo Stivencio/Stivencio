@@ -4,7 +4,6 @@
 - 🔭 Actualmente estoy construyendo mi portafolio 📂
 - 🌱 Me encuentro aprendiendo el stack MERN para poder dominarlo 📚
 - 💬 Puedes contactarme en:
-- 💻 **Mi sitio web: https://stivencio.github.io/**
 - 💼 **LinkedIn**: https://www.linkedin.com/in/estebanjacob/
 - 📧 **Email**: <a href="mailto:ESTEBANJACOB.GA@GMAIL.COM?Subject=GitHub" target="_blank">Contactar</a>
 
