@@ -1,7 +1,6 @@
 ### Hola! 👋
 
 - ✅ Mi nombre es **Esteban** 😄
-- 🔭 Actualmente me encuentro buscando empleo 👨‍💼💼
 - 🌱 Me encuentro aprendiendo el stack MERN para poder dominarlo 📚
 - 💬 Puedes contactarme en:
 - 💼 **LinkedIn**: https://www.linkedin.com/in/estebanjacob/
