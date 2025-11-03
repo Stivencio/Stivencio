@@ -1,7 +1,7 @@
 ### Hola! 👋
 
 - ✅ Mi nombre es **Esteban** 😄
-- 🌱 Me encuentro aprendiendo el stack MERN para poder dominarlo 📚
+- 🌱 Me gusta aprebder cosas nuevas 🤓📚
 - 💬 Puedes contactarme en:
 - 💼 **LinkedIn**: https://www.linkedin.com/in/estebanjacob/
 - 📧 **Email**: <a href="mailto:ESTEBANJACOB.GA@GMAIL.COM?Subject=GitHub" target="_blank">Contactar</a>
